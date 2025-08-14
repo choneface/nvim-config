@@ -100,6 +100,11 @@ _G.packer_plugins = {
     path = "/Users/gavingarcia/.local/share/nvim/site/pack/packer/start/telescope.nvim",
     url = "https://github.com/nvim-telescope/telescope.nvim"
   },
+  ["test-runner.nvim"] = {
+    loaded = true,
+    path = "/Users/gavingarcia/.local/share/nvim/site/pack/packer/start/test-runner.nvim",
+    url = "https://github.com/choneface/test-runner.nvim"
+  },
   ["vim-fugitive"] = {
     loaded = true,
     path = "/Users/gavingarcia/.local/share/nvim/site/pack/packer/start/vim-fugitive",

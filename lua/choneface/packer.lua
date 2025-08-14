@@ -27,4 +27,8 @@ return require('packer').startup(function(use)
 		 vim.cmd('colorscheme github_dark_default')
 	 end
  })
+
+ -- test runner 
+ use('choneface/test-runner.nvim')
+
 end)
